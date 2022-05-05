@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+    "author": "Pere Turegano",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,10 +11,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/pturegano/FreeCodeCampCert"
-	},
-    "author": {
-        "name" : "Pere Turegano",
-        "email" : "pere02@hotmail.com",
-        "url" : "http://carrerdedalt.net"
-    }
+	}
 }
